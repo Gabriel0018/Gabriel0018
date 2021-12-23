@@ -1,8 +1,8 @@
 ## "A igualdade é a escravatura. É por isso que amo a arte. Aí, pelo menos, tudo é liberdade nesse mundo de ficções" - Gustave Flaubert
   <div align="center">
     <a href="https://github.com/Gabriel0018">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel0018&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0018&layout=compact&langs_count=7&theme=dracula">
+    <img height="180em" src="https://static.vecteezy.com/ti/vetor-gratis/p3/4235208-personagem-fofo-professor-de-desenho-animado-vetor.jpg">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel0018&show_icons=true&theme=blue&include_all_commits=true&count_private=true">  
 
 
     
@@ -12,4 +12,8 @@
   <a href="mailto:gabrielmadureira9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gabrielmadureira9/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/PkSAGF2X" target ="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target ="_blank"></a>
+    
+##
+  <div align="center">
+    <img height="200em" src="https://media-exp1.licdn.com/dms/image/C4E16AQFeDhzYAt0bDQ/profile-displaybackgroundimage-shrink_350_1400/0/1631402629457?e=1645660800&v=beta&t=6aWriPmJqhQdXgKhXsOrqhLDOUIdGsZO9HHa6unjtsU">
   
