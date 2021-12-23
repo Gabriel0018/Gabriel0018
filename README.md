@@ -2,7 +2,7 @@
   <div align="center">
     <a href="https://github.com/Gabriel0018">
     <img height="180em" src="https://static.vecteezy.com/ti/vetor-gratis/p3/4235208-personagem-fofo-professor-de-desenho-animado-vetor.jpg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel0018&show_icons=true&theme=moltack&include_all_commits=true&count_private=true">  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel0018&show_icons=true&theme=vue&include_all_commits=true&count_private=true">  
 
 
     
