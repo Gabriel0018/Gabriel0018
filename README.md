@@ -1,4 +1,4 @@
-## "A igualdade é a escravatura. É por isso que amo a arte. Aí, pelo menos, tudo é liberdade nesse mundo de ficções" - Gustave Flaubert
+## "Seja um pouco mais gentil do que precisa ser. Não aceite um mal que pode mudar. Sempre faça o que tem medo." - Mentirosos, E.Lockhart
   <div align="center">
     <a href="https://github.com/Gabriel0018">
     <img height="120em" src="https://wallpaperbat.com/img/429989-follow-therandompersonn.jpg">
