@@ -16,4 +16,4 @@
     
 ##
   <div align="center">
-    <a href=https://media-exp1.licdn.com/dms/image/C4E16AQFeDhzYAt0bDQ/profile-displaybackgroundimage-shrink_200_800/0/1631402629457?e=1654128000&v=beta&t=p-krgqbuSDn_sTQNGIvKugBsS-OOrJ99OErOa-risgI>
+    <a href="https://github.com/Gabriel0018/Sistemas-de-Informacao-UFRRJ" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4E16AQFeDhzYAt0bDQ/profile-displaybackgroundimage-shrink_200_800/0/1631402629457?e=1654128000&v=beta&t=p-krgqbuSDn_sTQNGIvKugBsS-OOrJ99OErOa-risgI" target="_blank" rel="external"></a>
