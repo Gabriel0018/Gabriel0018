@@ -19,5 +19,5 @@
   
 ##
   <div align="center">
-    <a href="https://github.com/Gabriel0018/Sistemas-de-Informacao-UFRRJ"><img src="https://media.discordapp.net/attachments/962879321972813827/1002405515101483058/1631402629457.jpg" target="_blank"></img></a>
+    <a href="https://github.com/Gabriel0018/Sistemas-de-Informacao-UFRRJ"><img src="https://media.discordapp.net/attachments/962879321972813827/1002405515101483058/1631402629457.jpg" target="_blank" width="1200em"></img></a>
     
