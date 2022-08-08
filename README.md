@@ -1,4 +1,4 @@
-## "Seja um pouco mais gentil do que precisa ser. Não aceite um mal que pode mudar. Sempre faça o que tem medo." - Mentirosos, E.Lockhart" <img src="https://media0.giphy.com/media/l3q2IU3CIERbXY5tS/200w.webp?cid=ecf05e475fh7map0g6ejx0v45axglhgarcbl25aqq9o2l9it&rid=200w.webp&ct=g" align="left">
+## "Seja um pouco mais gentil do que precisa ser. Não aceite um mal que pode mudar. Sempre faça o que tem medo." - Mentirosos, E.Lockhart"
   <div align="center">
     <a href="https://github.com/Gabriel0018/Linguagem-Assembly-Processador-LEG">
       <img height="120em" src="https://media.discordapp.net/attachments/882449328478748713/972574947790696538/assembly.png"></a>
